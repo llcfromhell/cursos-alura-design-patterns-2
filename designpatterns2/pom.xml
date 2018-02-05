@@ -36,6 +36,13 @@
 			<version>3.6</version>
 		</dependency>
 
+		<dependency>
+			<groupId>org.jfugue</groupId>
+			<artifactId>jfugue</artifactId>
+			<version>5.0.9</version>
+			<scope>system</scope>
+			<systemPath>${project.basedir}/lib/jfugue-5.0.9.jar</systemPath>
+		</dependency>
 
 	</dependencies>
 
